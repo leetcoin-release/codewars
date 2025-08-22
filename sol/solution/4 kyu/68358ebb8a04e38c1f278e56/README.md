@@ -61,8 +61,6 @@ For Beta phase I've made input size such that the reference solution takes appro
 
 To pass the tests in 12s your solution should be roughly 10x faster than brute-force solution on the data.
 
-
-
 ## **Solutions:**
 
 #### **Python**
