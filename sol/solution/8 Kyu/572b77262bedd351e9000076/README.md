@@ -38,7 +38,7 @@ function first(arr, n = 1) {
 }
 ```
 
-#### **Python*
+#### **Python**
 ```py
 def first(seq, n=1):
     if n == 0:
